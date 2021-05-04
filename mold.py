@@ -35,7 +35,7 @@ class MyAbstract(QThread):
 
 
     def run(self):
-        self.loop.run_until_complete(self.func())
+        loop.run_until_complete(self.func())
 
 
 class Main(QDialog, FORM_CLASS):
