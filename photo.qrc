@@ -1,0 +1,74 @@
+<RCC>
+  <qresource prefix="icon">
+    <file>icon/clear.png</file>
+    <file>icon/save.png</file>
+    <file>icon/run.png</file>
+    <file>icon/open.png</file>
+    <file>icon/save.png</file>
+    <file>icon/run.png</file>
+    <file>icon/clear.png</file>
+    <file>icon/Spart mapper ICON.ico</file>
+    <file>icon/open.png</file>
+    <file>icon/ABGD.ico</file>
+    <file>icon/ABGD 2.png</file>
+    <file>icon/ASAP.ico</file>
+    <file>icon/ASAP 2.png</file>
+    <file>icon/copy_21mm.png</file>
+    <file>icon/Delineate.ico</file>
+    <file>icon/Delineate 2.png</file>
+    <file>icon/dnaconvert.ico</file>
+    <file>icon/DNA convert 2.png</file>
+    <file>icon/dnadiagnoser.ico</file>
+    <file>icon/DNA diagnoser 2.png</file>
+    <file>icon/Fastmerge_icon.ico</file>
+    <file>icon/Fast merge split 2.png</file>
+    <file>icon/Fastsplit_icon.ico</file>
+    <file>icon/GMYC.ico</file>
+    <file>icon/GMYC 2.png</file>
+    <file>icon/Lat Lon 2.png</file>
+    <file>icon/LatLonIcon.ico</file>
+    <file>icon/Limes.ico</file>
+    <file>icon/Limes 2.png</file>
+    <file>icon/Linebreaker.ico</file>
+    <file>icon/linebreaker 2.png</file>
+    <file>icon/Morphometric analyser 2.png</file>
+    <file>icon/morphometricanalyzer.ico</file>
+    <file>icon/nodenamecorrector.ico</file>
+    <file>icon/Node name corrector 2.png</file>
+    <file>icon/PTP.ico</file>
+    <file>icon/PTP 2.png</file>
+    <file>icon/PyR8S.ico</file>
+    <file>icon/PyR8S 2.png</file>
+    <file>icon/Simple stats calculator ICON.png</file>
+    <file>icon/Simple stats calculator LOGO1.png</file>
+    <file>icon/Simple stats calculator LOGO2.png</file>
+    <file>icon/Simple stats calculator LOGO3.png</file>
+    <file>icon/SODA.ico</file>
+    <file>icon/SODA icon.png</file>
+    <file>icon/SODA LOGO2.png</file>
+    <file>icon/Spart mapper ICON.png</file>
+    <file>icon/spart mapper LOGO1.png</file>
+    <file>icon/spart mapper LOGO2.png</file>
+    <file>icon/spart mapper LOGO3.png</file>
+    <file>icon/Specimen table merge 2.png</file>
+    <file>icon/specimentablemerger_icon.ico</file>
+    <file>icon/specimentablepruner.ico</file>
+    <file>icon/specimen table pruner 2.png</file>
+    <file>icon/stat.ico</file>
+    <file>icon/TaxI2.ico</file>
+    <file>icon/TaxI2 2.png</file>
+    <file>icon/Threshold cluster LOGO1.png</file>
+    <file>icon/Threshold cluster LOGO2.png</file>
+    <file>icon/Threshold cluster LOGO3.png</file>
+    <file>icon/TR2.ico</file>
+    <file>icon/TR2.png</file>
+    <file>icon/TR2 2.png</file>
+    <file>icon/TR2 3.png</file>
+    <file>icon/Treshold cluster ICON.png</file>
+    <file>icon/unit.ico</file>
+    <file>icon/unit converter ICON.png</file>
+    <file>icon/Unit converter LOGO1.png</file>
+    <file>icon/Unit converter LOGO2.png</file>
+    <file>icon/Unit converter LOGO3.png</file>
+  </qresource>
+</RCC>

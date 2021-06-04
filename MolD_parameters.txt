@@ -1,0 +1,56 @@
+#############SET INPUT AND OUTPUT FILES (INCLUDING COMPLETE PATH)
+INPUT_FILE= Example_input_alignment_Pontohedyle_COI.fas
+OUTPUT_FILE= result.txt
+
+#############SET TAXON PARAMETERS (NO DEFAULTS, no parameters entered will lead to an error).
+#Set list of the focus taxa (enter a comma separated list WITHOUT SPACES)
+#or if each taxon is to be diagnosed, enter 'ALL'
+#or if all taxa with more than N sequences available (where N is a natural number), enter >N
+qTAXA= ALL
+
+#Set taxon rank: if species - 1, if above species - 2.
+Taxon_rank=
+
+#Code gaps as characters: 'yes' or 'no'
+Gaps_as_chars= 'yes'
+
+#############SET ADVANCED PARAMETERS FOR mDNC RECOVERY. If you don't want to set them, don't enter anything after '='
+#Set number of the informative positions to be considered, integer (default 100)
+#or use '>'+integer to set desired cutoff value (for example '>1')
+Cutoff=
+
+#Set how many ambiguously called nucleotides are allowed (default 25)
+NumberN=25
+
+#Set number search iterations of MolD (default 10000)
+Number_of_iterations=20000
+
+#Set maximum length for the draft mDNCs (defailt 12)
+MaxLen1=
+
+#Set maximum length for the refined mDNCs (default 7)
+MaxLen2=5
+
+############ SET PARAMETERS OF ARTIFICIAL DATASETS (only rDNSs).
+#Set percent difference between original and modified sequence (default 1 for species-level taxa, 3 for for supraspecific taxa).
+Pdiff=1
+
+#Set max number of sequences per taxon to modify (default 10)
+<<<<<<< HEAD
+NMaxSeq=
+=======
+NMaxSeq=10
+>>>>>>> 3a6acf5822310312f2861cd86c803a33eb19a087
+
+#Set threshold of rDNC rating(default stringent).
+#100 artificial datasets are created to score the rDNC. If the rDNC remains diagnostic in  requested (defined by value of threshold),
+#or higher number of artificial datasets in two consequtive runs, then rDNC is output. The threshold values are like:
+#lousy: 66
+#moderate: 75
+#stringent: 90
+#very_stringent: 95
+<<<<<<< HEAD
+Scoring=
+=======
+Scoring=moderate
+>>>>>>> 3a6acf5822310312f2861cd86c803a33eb19a087
